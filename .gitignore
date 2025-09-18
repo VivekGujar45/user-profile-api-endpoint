@@ -1,0 +1,8 @@
+/.env
+/generateToken.js
+/models
+/node_modules
+/package-lock.json
+/package.json
+/routes
+/server.js
